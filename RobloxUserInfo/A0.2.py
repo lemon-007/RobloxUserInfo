@@ -10,6 +10,8 @@ print("88b  d88 db   8D 88.     88 `88.     .88.   88  V888 88      `8b  d8'")
 print("~Y8888P' `8888Y' Y88888P 88   YD   Y888888P VP   V8P YP       `Y88P'  Alpha V0.2")
 print("---------------------------------------------------------------------")
 
+print("testing git")
+
 vcheck = requests.get("https://versioncheck.iemon.repl.co/")
 vcheck_text = vcheck.text
 
